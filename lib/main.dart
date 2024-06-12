@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:sampleflutter/book_list/book_list_page.dart';
 import 'package:sampleflutter/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:sampleflutter/views/content_view.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

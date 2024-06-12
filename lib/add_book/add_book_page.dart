@@ -3,8 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:sampleflutter/add_book/add_book_model.dart';
-import 'package:sampleflutter/book_list/book_list_model.dart';
-import 'package:sampleflutter/domain/book.dart';
 
 class AddBookPage extends StatelessWidget {
   @override
